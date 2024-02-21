@@ -42,7 +42,7 @@
        Починаю вивчати мови <u>html</u> та <u>css</u>
         </font>
         </p>
-        <font color="green"><tfoot><i>Студент групи 101-ТК Борисенко А.С.</i></tfoot></font>
+        <font color="green"><p align="left"><i>Студент групи 101-ТК Борисенко А.С.</i></p></font>
     </div>
     </body>
 </html>
