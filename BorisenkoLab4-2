@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+ <TITLE> BorisenkoLab4-2</TITLE>
+  <meta charset =UTF-8>
+</HEAD>
+ <BODY BACKGROUND="" TEXT="#330066">
+  <P ALIGN=CENTER>
+   <FONT COLOR="#008080" SIZE="7"><B>
+     <i>Группа 101-ТК</i> </B></FONT><BR>
+   <FONT SIZE="3"> 
+   <marquee direction="right"  behavior="alternate" ><p>Арєщенко Богдан Андрійович</p></marquee>
+    
+   
+<marquee direction="left"  scrollamount="13">   
+<p>Барило Діана Олександрівна</p></marquee>
+
+<marquee direction="right" bgcolor="#63d63" behavior="slide" loop="1" scrollamount="15">
+
+<p>Березняк Євгеній Олександрович</p> </marquee>
+
+
+<marquee direction="right" scrolldelay="100"> 
+<p>Борисенко Андрій Сергійович</p></marquee>
+
+<marquee direction="right" scrolldelay="300"> 
+<p>Власенко Єгор Ігорович</p></marquee>
+
+
+
+   </FONT>
+  </P>
+ </BODY>
+</HTML>
